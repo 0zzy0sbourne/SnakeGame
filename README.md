@@ -1,4 +1,4 @@
 # SnakeGame
 
 
-Snake game that prints the name's letters one by one in each food eating 
+Snake game that prints the name's letters one by one at each food eating 
